@@ -1,3 +1,7 @@
+
+![Mateus França redimensionado](https://github.com/user-attachments/assets/0d2c8b34-dbc3-48e3-b3bb-297b8a37e7c7)
+<br>
+<br>
 # Portfólio de Projetos em Dados utilizando o Power BI
 
 Olá a todos, nesse repositório você irá encontrar projetos que desenvolvi e ainda estou desenvolvendo ao longo de minha vida acadêmica e profissional, utilizando a plataforma Power BI.
