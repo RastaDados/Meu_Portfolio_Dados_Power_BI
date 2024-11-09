@@ -18,5 +18,8 @@ Busco através dos dados destes projetos criados encontrar insights valiosos e a
 # Projetos de cursos
 <br>
 <h2> Alura - Power BI </h2>
-
-
+<h3>
+<a href="https://github.com/RastaDados/Projeto_Curso_Alura_PowerBI">Projeto - Empresa de Bebidas </a>
+</h3>
+Este projeto foi sendo desenvolvido ao longo do curso de Power BI ministrado pela Alura.
+O estudo desse projeto foi para criação de um Dashboard de vendas de uma empresa especializada em Bebidas (Sucos e Refrigerantes). O desafio foi passando desde o tratamento dos dados da fonte de dados (disponibilizada pela Alura) até a criação dos indicadores e gráficos para auxiliar na tomada de decisão por parte dos gestores e CEOS.
