@@ -12,6 +12,7 @@ Busco através dos dados destes projetos criados encontrar insights valiosos e a
 * Todos os projetos aqui criados utilizam apenas a plataforma Power BI.
 * Todo o processo de tratamento de dados (ETL) também foram feitos dentro da plataforma Power BI (Pelo Power Query)
 
+<hr>
 <br>
 <br>
 
@@ -20,5 +21,12 @@ Busco através dos dados destes projetos criados encontrar insights valiosos e a
 <br>
 
 <h2>Desafios de Cursos</h2>
+
+<a href="https://github.com/RastaDados/Projetos_Desafios_de_Cursos"> Acesse aqui </a>
+
+<hr>
+
+<h2>Projetos Pessoais</h2>
+
  
 
