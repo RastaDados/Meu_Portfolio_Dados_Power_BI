@@ -9,9 +9,6 @@ Busco através dos dados destes projetos criados encontrar insights valiosos e a
 
 *Vale ressaltar que os dados contidos em cada projeto desse repositório são dados de acesso livre, e nos projetos profissionais foi pedido a aceitação da publicação e também feito alterações no conteúdo dos dados de origem, garantindo assim **segurança** e **privacidade** dos dados.*
 
-* Todos os projetos aqui criados utilizam apenas a plataforma Power BI.
-* Todo o processo de tratamento de dados (ETL) também foram feitos dentro da plataforma Power BI (Pelo Power Query)
-
 <hr>
 <br>
 <br>
