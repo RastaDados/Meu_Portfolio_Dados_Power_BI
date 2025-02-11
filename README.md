@@ -16,11 +16,6 @@ Busco através dos dados destes projetos criados encontrar insights valiosos e a
 # Projetos
 
 <br>
-
-<h2>Desafios de Cursos</h2>
-
-<h2><a href="https://github.com/RastaDados/Projetos_Desafios_de_Cursos"> Acesse aqui </a></h2>
-
 <hr>
 
 <h2>Projetos Pessoais</h2>
