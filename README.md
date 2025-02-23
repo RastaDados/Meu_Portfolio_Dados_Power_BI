@@ -20,13 +20,27 @@ Busco através dos dados destes projetos criados encontrar insights valiosos e a
 
 <a href="https://github.com/RastaDados/Formula-1">![Fórmula 1](https://github.com/user-attachments/assets/00ccdef3-c097-4dc0-872f-5466b499eb3f)</a>
 
+🚀Análise completa da fórmula 1, exibindo dados e insights valiosos dos pilotos, equipes e corridas.🚀
+
+📊 <b>KPI's Importantes</b>
+
+- Número de Corridas por Temporada
+
+- Total de Pódium e Vitórias por Pilotos e Equipes
+
+- Detalhamento Completo das Equipes (Vitórias, Corridas, Nacionalidade, Pontos, Pódiums)
+
+- Detalhamento Completo dos Pilotos
+
+✨ Todos os indicadores presentes no Dashbaord são essenciais para monitorar e tomar decisões estratégicas informadas. Com a ajuda desses gráficos, é possível identificar tendências, contar histórias com os dados e visualizar informações de maneira intuitiva.
+  
 <a href="https://github.com/RastaDados/Formula-1">Acesse aqui!</a>
 
 <hr>
 
 <h3><b>Vendas de Supermercado</b></h3>
 
-![Supermercado](https://github.com/user-attachments/assets/28bc680e-7d2b-49f8-8945-67062c40ff0d)
+<a href="https://github.com/RastaDados/Venda-de-Jogos">![Supermercado](https://github.com/user-attachments/assets/28bc680e-7d2b-49f8-8945-67062c40ff0d)</a>
 
 <a href="https://github.com/RastaDados/Venda-de-Jogos">Acesse aqui!</a>
 
