@@ -14,10 +14,54 @@ Busco através dos dados destes projetos criados encontrar insights valiosos e a
 
 <h1>Projetos</h1>
 
-
-
-<br>
 <hr>
 
- 
+<h3><b>Corridas Fórmula 1</b></h3>
+
+![Fórmula 1](https://github.com/user-attachments/assets/00ccdef3-c097-4dc0-872f-5466b499eb3f)
+
+<a href="https://github.com/RastaDados/Formula-1">Acesse aqui!</a>
+
+<hr>
+
+<h3><b>Vendas de Supermercado</b></h3>
+
+![Supermercado](https://github.com/user-attachments/assets/28bc680e-7d2b-49f8-8945-67062c40ff0d)
+
+<a href="https://github.com/RastaDados/Venda-de-Jogos">Acesse aqui!</a>
+
+<hr>
+
+<h3><b>Catálogo de Filmes e Séries Netflix</b></h3>
+
+![Netflix](https://github.com/user-attachments/assets/b4c5ba72-16b0-4c14-9730-b9e278da05b1)
+
+<a href="https://github.com/RastaDados/Catalogo-Netflix">Acesse aqui!</a>
+
+<hr>
+
+<h3><b>Venda de Vídeo Game e Jogos</b></h3>
+
+![Jogos](https://github.com/user-attachments/assets/c9e819a4-b35f-4a1d-94d4-8f08c1fd02c0)
+
+<a href="https://github.com/RastaDados/Venda-de-Jogos">Acesse aqui!</a>
+
+<hr>
+
+<h3><b>Venda de Carros Concessionária</b></h3>
+
+![Concessionária](https://github.com/user-attachments/assets/2e851c5d-f405-4bcc-9bbd-015337de1cf2)
+
+<a href="https://github.com/RastaDados/Concession-ria-de-Carros">Acesse aqui!</a>
+
+<hr>
+
+<h3><b>Missões Espaciais Futuras</b></h3>
+
+![Missão Espacial](https://github.com/user-attachments/assets/0dbdd162-c766-4c20-8372-94540c0d7856)
+
+<a href="https://github.com/RastaDados/Miss-es-Espaciais">Acesse aqui!</a>
+
+<hr>
+
 
