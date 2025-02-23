@@ -18,7 +18,7 @@ Busco através dos dados destes projetos criados encontrar insights valiosos e a
 
 <h3><b>Corridas Fórmula 1</b></h3>
 
-![Fórmula 1](https://github.com/user-attachments/assets/00ccdef3-c097-4dc0-872f-5466b499eb3f)
+<a href="https://github.com/RastaDados/Formula-1">![Fórmula 1](https://github.com/user-attachments/assets/00ccdef3-c097-4dc0-872f-5466b499eb3f)</a>
 
 <a href="https://github.com/RastaDados/Formula-1">Acesse aqui!</a>
 
