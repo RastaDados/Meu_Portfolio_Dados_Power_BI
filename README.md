@@ -11,15 +11,13 @@ Busco através dos dados destes projetos criados encontrar insights valiosos e a
 
 <hr>
 <br>
-<br>
 
-# Projetos
+<h1>Projetos</h1>
+
+
 
 <br>
 <hr>
 
-<h2>Projetos Pessoais</h2>
-
-<h2><a href="https://github.com/RastaDados/Projetos_Pessoais_Power_BI/tree/main">Acesse aqui </a></h2>
  
 
